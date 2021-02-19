@@ -1,0 +1,170 @@
+.google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+    margin-top: 10rem;
+}
+
+
+.search {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 1.7rem;
+}
+
+.search input {
+    width:39rem;
+    height: 3em;
+    
+    
+}
+
+.buttons {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 2rem;
+}
+
+.first-btn {
+    margin-right: 0.5rem;
+    height: 2rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    
+    
+  }
+
+  li {
+    float: left;
+    margin-top:0.5rem;
+    font-size: small;
+   
+
+    
+  }
+
+  li:hover{
+    text-decoration: underline;
+  }
+
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 0rem;
+    font-size:small;
+    font-family: arial, sans-serif;
+
+  }
+  
+
+  li a:hover {
+    background-color:white;
+  }
+
+
+  ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+ 
+  .Sign {
+    height: 2.1rem;
+    background-color:rgb(26, 115, 232);  
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: white;
+    width: 4.1rem;
+    border:none;
+    font-weight:bold;
+
+  }
+
+.images {
+  margin-right: 5.5rem;
+  margin-left: 0rem;
+  margin-top: 0.5rem;
+}
+
+.Gmail {
+  margin-right: -1rem;
+}
+
+.About {
+  margin-left: 0rem;
+  margin-top: 0.5rem;
+  margin-right: -1rem;
+
+}
+
+ol {
+  position:fixed;
+  bottom:5%;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+
+}
+
+.Setting {
+  margin-right: 1.5rem;
+}
+
+.Terms {
+  position:absolute;
+  right: 7rem;
+}
+
+.Privacy {
+  position:absolute;
+  right:11rem;
+}
+
+.Advertising {
+  margin-left: 1rem;
+}
+.footer{
+
+  background-color: rgb(242, 242, 242);
+  overflow: hidden;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  
+}
+
+.footer a {
+  float: left;
+  display: block;
+  color: rgb(95, 99, 104);
+  text-align: center;
+  padding: .7rem;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  
+ 
+  
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
